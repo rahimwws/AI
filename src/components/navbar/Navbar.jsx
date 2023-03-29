@@ -16,6 +16,7 @@ const Navbar = () => {
           <p><a href="#home">Начало</a></p>
           <p><a href="#wgpt3">Что такое AI?</a></p>
           <p><a href="#blog">Open AI</a></p>
+          <p><a href="https://portfolio-rahimwws.vercel.app/">Автор</a></p>
          
           
         </div>

@@ -14,7 +14,7 @@ const Header = () =>{
   <div className="gpt3__header section__padding" id="home">
     <div className="gpt3__header-content">
       <h1 className="gradient__text" aria-label = 'Добро пожаловать. Я AI'> Добро пожаловать.<span class="typewriter nocaret">  </span></h1>
-      <p>Здесь вы можете участвовать в реальных чат-беседах с искусственным интеллектом, разработанным специально для удовлетворения ваших потребностей.</p>
+      <p>Здесь вы можете участвовать в реальных чат-беседах с искусственным интеллектом, разработанным мной на основе GPT-3.</p>
       <a href="https://bot-ai-lake.vercel.app/" id='Try'></a>
        <button onClick={handleClick}>Попробовать</button>
 
