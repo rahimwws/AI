@@ -14,7 +14,7 @@ const Footer = () => {
           Вы хотите шагнуть в будущее раньше других?
         </h1>
       </div>
-      <a href="https://bot-ai-lake.vercel.app/" id="Try"></a>
+      <a href="https://chatai-rahimwws.vercel.app/" id="Try"></a>
       <button className="gpt3__footer-btn" onClick={handleClick} type="button">
         Попробуйте прямо сейчас
       </button>
